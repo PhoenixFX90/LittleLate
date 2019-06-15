@@ -27,7 +27,7 @@ if answer.lower().strip() == "yes":
         answer = input("It's very late and you guys have been driving for several hours. Your partner lets out a loud yawn."
                        "You see a sign for a hotel and coffee shop. Do you stop for the hotel or coffee?")
         if answer == "hotel":
-            print("Det. Gray gets you two checked into the room while you take the luggage from the car to the hotel room."
+            print("Det. Gray gets the two of you checked into the hotel room while you take the luggage from the car to the hotel room."
                   "As your partner settles in, you decide to look over the casefile before heading to the shower."
                   "Gray makes a comment about the drive into town."
                   "You decide to shower, as you are in the shower you put two and two together about what you just looked over and what Det. Gray said about the drive in.")
